@@ -1,1 +1,7 @@
-fav all plants 
+fav all plants:
+
+Areca palm.
+Haworthia cymbiformis.
+cactus .
+jade plant.
+yucca. 
